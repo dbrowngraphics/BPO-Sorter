@@ -1,0 +1,13 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.7",
+        "phpoffice/phpspreadsheet": "dev-develop",
+        "setasign/fpdi": "^1.6",
+        "setasign/fpdi-tcpdf": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "BPO\\": "src/"
+        }
+    }
+}
